@@ -13,3 +13,8 @@ Docker is an open container-based platform that enables you to generate, control
 A Docker image is a file used to execute code in a Docker container. Docker images act as a set of instructions to build a Docker container, like a template. Docker images also act as the starting point when using Docker. An image is comparable to a snapshot in virtual machine (VM) environments.
 5. why use docker..?
 Containers isolate a particular application and its dependencies both from other containers and the underlying OS. So while all the containerized applications share a common operating system (Linux or Windows), they essentially remain separated from each other and also from the system.
+
+
+
+
+adding new lines
