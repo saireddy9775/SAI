@@ -1,0 +1,15 @@
+1.What is Docker?
+Docker is an open container-based platform that enables you to generate, control and deploy applications on it. You can decouple applications from the infrastructure, and it enables you to build software quickly. 
+2. How does Docker work?
+ *The Server runs the daemon used to generate and control Containers, Images, Networks, and Data Volumes. 
+*The REST API specifies how apps can communicate with the Server and instruct it to do its job. 3. 
+*The Client interacts with daemon through code and commands. 
+
+3.What is Docker Container?
+*Docker Containers are lightweight and portable virtual operating systems that include libraries, system tools, code, and runtime. 
+ *You can create, start, stop, move, or delete a container using the DockerAPI or CLI. can be run on local machines, virtual machines or deployed              to the cloud. Containers are isolated from each other and run their own software, binaries, and configurations.
+
+4.what is docker images 
+A Docker image is a file used to execute code in a Docker container. Docker images act as a set of instructions to build a Docker container, like a template. Docker images also act as the starting point when using Docker. An image is comparable to a snapshot in virtual machine (VM) environments.
+5. why use docker..?
+Containers isolate a particular application and its dependencies both from other containers and the underlying OS. So while all the containerized applications share a common operating system (Linux or Windows), they essentially remain separated from each other and also from the system.
